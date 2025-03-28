@@ -8,4 +8,6 @@ router.post("/register", register);
 router.post("/login", login);
 router.get("/profile", authMiddleware, getProfile); // New profile route
 
-module.exports = router;
+module.exports = router;  
+
+//adfasdfasfasfasf
